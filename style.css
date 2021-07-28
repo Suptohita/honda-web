@@ -1,0 +1,9 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+header{
+    background-color: #264653;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
