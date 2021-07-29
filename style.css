@@ -1,9 +1,38 @@
 body{
     font-family: 'PT Sans', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 header{
     background-color: #264653;
     padding-left: 3rem;
     padding-right: 3rem;
+}
+
+.feature-bike{
+    width: 450px;
+}
+
+.bike-grayscale{
+    filter: grayscale(0.9);
+}
+
+.client-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+i{
+    color: #E77C40;
+}
+
+.faq-img{
+    width: 400px;
+    height: 400px;
+}
+
+.accordion-div{
+    width: 40%;
 }
