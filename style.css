@@ -4,6 +4,7 @@ body{
     overflow-x: hidden;
 }
 
+
 header{
     background-color: #264653;
     padding-left: 3rem;
@@ -16,6 +17,11 @@ header{
 
 .bike-grayscale{
     filter: grayscale(0.9);
+}
+
+.accessories-img{
+    width: 250px;
+    height: 250px;
 }
 
 .client-img{
